@@ -1,6 +1,6 @@
 # Bytes.co Alpine htpasswd
 
-A no-frills Alpine htpasswd (and apache2-utils) container. Currently based on Alpine 3.15. Small and secure. Use to generate htpasswd-formatted user login files, for example for Traefik.
+A no-frills Alpine htpasswd (and apache2-utils) container. Currently based on Alpine 3.17. Small and secure. Use to generate htpasswd-formatted user login files, for example for Traefik.
 
 ## Example Usage
 ```bash
